@@ -30,5 +30,10 @@ You may also see any lint errors in the console.
 
 ## Test Credentials
 
-Username: aktharrr
+Username: aktharrr \
 Password: asdasdASD1!
+
+## Database
+
+Create databse 'surge' \
+Import the 'surge.sql' dump file
